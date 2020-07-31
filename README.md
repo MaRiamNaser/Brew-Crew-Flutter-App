@@ -1,16 +1,13 @@
 # brew_crew
 
-A new Flutter project.
+**Registration Page**
 
-## Getting Started
+![111691017_296783174921946_8743110857855065259_n](https://user-images.githubusercontent.com/38191133/89068245-255f7700-d371-11ea-8951-abc42762813a.jpg)
 
-This project is a starting point for a Flutter application.
+**Home Page (Display All Brew Crew)**
 
-A few resources to get you started if this is your first Flutter project:
+![115280507_672639190007705_8343150887284892480_n](https://user-images.githubusercontent.com/38191133/89068247-25f80d80-d371-11ea-9b01-6d0dd93ac32b.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**If You want to edit your Brew from settings**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![111874564_331941587837459_6554838946024164339_n](https://user-images.githubusercontent.com/38191133/89068249-2690a400-d371-11ea-9b57-feba016467b2.jpg)
